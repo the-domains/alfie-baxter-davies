@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T22:29:42.487Z'
-dateModified: '2016-03-12T22:29:19.457Z'
+datePublished: '2016-03-12T22:34:23.402Z'
+dateModified: '2016-03-12T22:33:46.505Z'
 title: Alfie Baxter-Davies
 author: []
+sourcePath: _posts/2016-03-12-alfie-baxter-davies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-alfie-baxter-davies.md
-published: true
 url: alfie-baxter-davies/index.html
 _type: Article
 
