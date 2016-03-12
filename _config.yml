@@ -1,6 +1,6 @@
 name: Alfie Baxter-Davies
 favicon: null
-layout_spectrum: 0.4660336070228368
+layout_spectrum: 0.25261
 typography_spectrum: 0.38448195112869143
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.22522564115934074
+    - '#b2b2b4'
+    - '#efeeec'
+    - '#1f232e'
+    - '#d64c44'
+    - '#ff846e'
+  brandStrength: 0.1875
   lightness: 0.8174456527922302
   saturation: 0.574534649727866
   rhythmicContrast: 0.8912666123360395
