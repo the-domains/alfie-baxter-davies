@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alfie Baxter-Davies]]></title>
         <description><![CDATA[Alfie Baxter-Davies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alfie-baxter-davies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 22:30:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 22:34:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alfie-baxter-davies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Alfie Baxter-Davies]]></title>
             <description><![CDATA[<article><h1>Alfie Baxter-Davies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64d4170f59bfb3bf82a4e94d462bd4b7fc60e860.jpg"></article>]]></description>
-            <link>undefinedalfie-baxter-davies/index.html</link>
+            <link>https://thegrid.ai/alfie-baxter-davies/alfie-baxter-davies/index.html</link>
             <guid isPermaLink="false">65834359-b7b2-46da-b98c-86651caa2b89</guid>
-            <pubDate>Sat, 12 Mar 2016 22:29:42 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 22:34:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
