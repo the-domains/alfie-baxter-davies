@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T22:34:23.402Z'
-dateModified: '2016-03-12T22:33:46.505Z'
+datePublished: '2016-04-05T13:20:48.074Z'
+dateModified: '2016-04-05T13:19:46.507Z'
 title: Alfie Baxter-Davies
 author: []
 sourcePath: _posts/2016-03-12-alfie-baxter-davies.md
@@ -22,4 +22,4 @@ url: alfie-baxter-davies/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1712a8c7-fae9-4b8a-b34d-f59562130974.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9509109-e29b-4e0c-a1d8-4ccce85ac1d9.jpg)
